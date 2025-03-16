@@ -1,0 +1,22 @@
+{
+  "status": {
+    "allStatus": "All status",
+    "alive": "Alive",
+    "dead": "Dead",
+    "unknown": "Unknown"
+  },
+  "species": {
+    "allSpecies": "All Species",
+    "human": "Human",
+    "alien": "Alien"
+  },
+  "character": {
+    "alive": "Alive",
+    "dead": "Dead",
+    "unknown": "Unknown",
+    "human": "human",
+    "male": "male",
+    "female": "Female",
+    "alien": "Alien"
+  }
+}
